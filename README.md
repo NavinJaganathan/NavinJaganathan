@@ -1,4 +1,10 @@
- Hi there, I'm Navin 👋
+Hi there, I'm Navin 👋
+
+About me 🚀
+Developer | Problem Solver | Tech Enthusiast  
+Building projects that make a difference.  
+Always learning, always growing.
+
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
 [![Linkedin Badge](https://img.shields.io/badge/-navin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin)](https://www.linkedin.com/in/yourlinkedin)
