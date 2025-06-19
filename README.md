@@ -1,15 +1,11 @@
-# Hi there, I'm Navin 👋
+ Hi there, I'm Navin 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![Linkedin Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin)](https://www.linkedin.com/in/yourlinkedin)
+[![Linkedin Badge](https://img.shields.io/badge/-navin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin)](https://www.linkedin.com/in/yourlinkedin)
 [![Twitter Badge](https://img.shields.io/badge/-@yourtwitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/yourtwitter)](https://twitter.com/yourtwitter)
 
 ---
-
-
-## Skills
-
-## Skills
+💻 Tech Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -28,11 +24,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
 
-
-
----
-
-### Let's connect!
+Let's connect!💫
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter)
