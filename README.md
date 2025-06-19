@@ -32,16 +32,16 @@ Always learning, always growing.
 <h2>Connect with Me</h2>
 <p>
   <a href="https://instagram.com/yourusername" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj5NOJhLy5HRjoMy4jF3Lflqlx8fCi2qdriA&s" alt="Instagram" width="30" height="30" style="margin: 0 10px; filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(200%);" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbpRbFd4yidITvSr6h5HANh7GqKSwI9N25cw&s" alt="Instagram" width="30" height="30" style="margin: 0 10px; filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(200%);" />
   </a>
   <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="margin: 0 10px; filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(200%);" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj5NOJhLy5HRjoMy4jF3Lflqlx8fCi2qdriA&s" alt="LinkedIn" width="30" height="30" style="margin: 0 10px; filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(200%);" />
   </a>
   <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="30" height="30" style="margin: 0 10px; filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(200%);" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwjr0ta4KV6dCZNPlrGLvt5S6YV52T-DPV2w&s" alt="Twitter" width="30" height="30" style="margin: 0 10px; filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(200%);" />
   </a>
   <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" height="30" style="margin: 0 10px; filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(200%);" />
+    <img src="https://static.vecteezy.com/system/resources/thumbnails/017/119/660/small_2x/github-logo-git-hub-icon-with-text-on-white-and-black-background-free-vector.jpg" alt="GitHub" width="30" height="30" style="margin: 0 10px; filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(200%);" />
   </a>
 </p>
 
