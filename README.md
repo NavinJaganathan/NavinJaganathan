@@ -31,16 +31,16 @@ Always learning, always growing.
 
 <h2>Connect with Me</h2>
 <p>
-  <a href="https://instagram.com/yourusername" target="_blank">
+  <a href="https://instagram.com/yourusername">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbpRbFd4yidITvSr6h5HANh7GqKSwI9N25cw&s" alt="Instagram" width="30" height="30" style="margin: 0 10px; filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(200%);" />
   </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://linkedin.com/in/yourusername">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj5NOJhLy5HRjoMy4jF3Lflqlx8fCi2qdriA&s" alt="LinkedIn" width="30" height="30" style="margin: 0 10px; filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(200%);" />
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
+  <a href="https://twitter.com/yourusername">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwjr0ta4KV6dCZNPlrGLvt5S6YV52T-DPV2w&s" alt="Twitter" width="30" height="30" style="margin: 0 10px; filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(200%);" />
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/yourusername">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpt-360u8xWsG_svHf_kdmJ5ovLzWo8y9yxUBD4SLjDHuoq0eR4yHYMDjRzQd5yjnqCF8&usqp=CAU" alt="GitHub" width="30" height="30" style="margin: 0 10px; filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(200%);" />
   </a>
 </p>
