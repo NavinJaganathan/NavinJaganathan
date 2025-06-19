@@ -32,7 +32,7 @@ Always learning, always growing.
 <h2>Connect with Me</h2>
 <p>
   <a href="https://instagram.com/yourusername">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbpRbFd4yidITvSr6h5HANh7GqKSwI9N25cw&s" alt="Instagram" width="30" height="30" style="margin: 0 10px; filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(200%);" />
+    <img src="https://t3.ftcdn.net/jpg/14/02/74/52/360_F_1402745241_r08eVtyhYF8PjkinNjm412eXFre3zNtZ.jpg" alt="Instagram" width="30" height="30" style="margin: 0 10px; filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(200%);" />
   </a>
   <a href="https://linkedin.com/in/yourusername">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj5NOJhLy5HRjoMy4jF3Lflqlx8fCi2qdriA&s" alt="LinkedIn" width="30" height="30" style="margin: 0 10px; filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(200%);" />
