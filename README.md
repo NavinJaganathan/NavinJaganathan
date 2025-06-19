@@ -7,7 +7,7 @@ Always learning, always growing.
 
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/NavinJaganathan)
-[![Linkedin Badge](https://img.shields.io/badge/-navin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin)](https://www.linkedin.com/in/yourlinkedin)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin)](https://www.linkedin.com/in/yourlinkedin)
 [![Twitter Badge](https://img.shields.io/badge/-@yourtwitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/yourtwitter)](https://twitter.com/yourtwitter)
 
 ---
