@@ -10,7 +10,6 @@ Always learning, always growing.
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin)](https://www.linkedin.com/in/yourlinkedin)
 [![Twitter Badge](https://img.shields.io/badge/-@yourtwitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/yourtwitter)](https://twitter.com/yourtwitter)
 
----
 💻 Tech Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
