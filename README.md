@@ -41,7 +41,7 @@ Always learning, always growing.
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwjr0ta4KV6dCZNPlrGLvt5S6YV52T-DPV2w&s" alt="Twitter" width="30" height="30" style="margin: 0 10px; filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(200%);" />
   </a>
   <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/thumbnails/017/119/660/small_2x/github-logo-git-hub-icon-with-text-on-white-and-black-background-free-vector.jpg" alt="GitHub" width="30" height="30" style="margin: 0 10px; filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(200%);" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpt-360u8xWsG_svHf_kdmJ5ovLzWo8y9yxUBD4SLjDHuoq0eR4yHYMDjRzQd5yjnqCF8&usqp=CAU" alt="GitHub" width="30" height="30" style="margin: 0 10px; filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(200%);" />
   </a>
 </p>
 
