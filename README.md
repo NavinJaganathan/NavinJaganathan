@@ -5,10 +5,13 @@ Developer | Problem Solver | Tech Enthusiast
 Building projects that make a difference.  
 Always learning, always growing.
 
+---
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/NavinJaganathan)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin)](https://www.linkedin.com/in/yourlinkedin)
 [![Twitter Badge](https://img.shields.io/badge/-@yourtwitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/yourtwitter)](https://twitter.com/yourtwitter)
+
+---
 
 💻 Tech Skills
 
@@ -28,6 +31,8 @@ Always learning, always growing.
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+
+---
 
 Let's connect!💫
 
